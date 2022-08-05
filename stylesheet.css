@@ -1,0 +1,139 @@
+ .backimage{
+ 	background-image: url(image/homepage.jpg);
+ 	height: 100vh;
+    margin: 0;
+    padding: 0;
+ }
+
+
+
+ .logo{
+ 	margin:0px 0 0 165px;
+ 	padding: 0;
+}
+
+ .highttext{
+    margin:265px 0 0 0;
+    padding: 0;
+    line-height: 5rem;
+}
+
+.getstarted{
+    margin:20px 0 0 0px;
+    padding: 0;
+}
+
+.pauto{
+    margin:15px 0 0 0px;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+
+.Getstarted{
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 0px;
+}
+
+
+/* This is a sign in in CSS */
+
+.signbg{
+    background-image: url(image/ForgotPassword.jpg);
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.containerbox{
+    background-color: white;
+    width: 1194px;
+    height: 800px;
+    margin: auto;
+    align-content: center;
+  box-shadow: 0 0 50px  rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.signh4{
+    width: 900px;
+    height: 50px;
+    margin: auto;
+    padding: 0px;
+    margin-top: 70px;
+    border-bottom: 1px solid #c5c5c5;
+    background-color:none;
+}
+
+.formsign{
+    background-color: none;
+    height: 400px;
+    width: 500px;
+    align-content: center;
+    margin:auto;
+    padding: 0;
+    margin-top: 60px;
+    text-align: left;
+}
+
+
+.social{
+    margin:0px;
+    padding: 0px;
+    float: right;
+    align-content: right;
+}
+
+/* This is a Sign Up Success in CSS */
+
+
+.signupsuccess{
+    background-color:none;
+    height: 400px;
+    width: 500px;
+    align-content: center;
+    margin:auto;
+    padding: 0;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.signsuccicon{
+    width: 900px;
+    height: 100px;
+    margin: auto;
+    padding: 0px;
+    margin-top: 80px;
+    border-bottom: 1px solid #c5c5c5;
+    background-color:none;
+}
+
+
+/* This is a forgot password in CSS */
+
+.forgotpassword{
+    width: 900px;
+    height: 100px;
+    margin: auto;
+    padding: 0px;
+    margin-top: 80px;
+    border-bottom: 1px solid #c5c5c5;
+    background-color:none;
+}
+
+/* This is a EmailValidation in CSS */
+
+
+.emailvalidation{
+    background-color:none;
+    height: 400px;
+    width: 500px;
+    align-content: center;
+    margin:auto;
+    padding: 0;
+    margin-top: 100px;
+    text-align: center;
+}
